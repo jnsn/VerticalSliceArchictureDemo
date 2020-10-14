@@ -50,7 +50,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Features\V1\Users\GetUserById\" />
     <Folder Include="Features\V1\Users\UpdateUser\" />
   </ItemGroup>
 
