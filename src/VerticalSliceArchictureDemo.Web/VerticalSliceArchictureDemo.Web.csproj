@@ -49,10 +49,6 @@
     <PackageReference Include="SerilogMetrics" Version="2.1.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Features\V1\Users\UpdateUser\" />
-  </ItemGroup>
-
   
 
 </Project>
